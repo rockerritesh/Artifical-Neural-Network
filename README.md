@@ -3,7 +3,7 @@ Here, MACHINE LEARNING AND DEEP LEARNING CODE.
 
 Here, I have used sklearn and keras as tensorflow backend for data processing and model evalution.
 
- In this repo I have uploaded mini project along with some function in NPL like stemmer,Lemitizer, TFIDF. 
+ In this repo I have uploaded mini project along with some function of NPL like stemmer,Lemitizer, TFIDF. 
  
  Sentiment classification using simple neural network.
  
